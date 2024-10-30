@@ -76,9 +76,35 @@ body{
 }
 
 
+.recommended {
+    padding: 10px;
+}
+
+.recommended p {
+    padding-top: 10px;
+}
+
+.course {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+.course_card{
+    width: 300px;
+}
 
 
+.course_card img {
+    width: 100%;
+    height: 50%;
+}
 
+.course_card i{
+    color: yellow;
+}
 
 
 
