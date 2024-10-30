@@ -72,28 +72,18 @@ body{
 
 .sale_image img{
     width: 100%;
-
+    
 }
 
-.recommended{
-    padding: 10px;
-}
 
-.recommended p{
-    padding-top: 10px;
-}
 
-.course{
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding-top: 10px;
-}
 
-.course_card img{
-    width: 100%;
-    height: 50%;
-}
+
+
+
+
+
+
 
 
 
