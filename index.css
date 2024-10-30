@@ -70,7 +70,10 @@ body{
     border-radius: 30px;
 }
 
-
+.sale_image img{
+    width: 100%;
+    
+}
 
 
 
