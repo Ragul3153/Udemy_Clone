@@ -56,8 +56,19 @@ body{
     font-weight: bold;
 }
 
+.Categories{
+    display: flex;
+    padding: 5px;
+    justify-content: space-around;
+    border-bottom: solid black 1px;
+}
 
-
+.Categories p{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
 
 
 
