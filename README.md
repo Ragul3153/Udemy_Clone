@@ -18,7 +18,7 @@ A simple Udemy clone built using HTML and CSS. This project aims to replicate th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/udemy-clone.git
+   git clone https://github.com/Ragul3153/Udemy_Clone.git
    ```
 2. Navigate to the project directory:
    ```bash
