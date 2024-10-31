@@ -22,7 +22,7 @@ A simple Udemy clone built using HTML and CSS. This project aims to replicate th
    ```
 2. Navigate to the project directory:
    ```bash
-   cd udemy-clone
+   cd Udemy_Clone
    ```
 3. Open the `index.html` file in your preferred web browser.
 
